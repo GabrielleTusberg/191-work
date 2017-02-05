@@ -1,12 +1,21 @@
-# something
+My Experience with Beginning Coding
+------
 
-some paragraph nonsense some paragraph nonsensesome paragraph nonsensesome paragraph nonsensesome paragraph nonsensesome paragraph nonsensesome paragraph nonsensesome paragraph nonsensesome paragraph nonsensesome paragraph nonsensesome paragraph nonsensesome paragraph nonsensesome paragraph nonsensesome paragraph nonsensesome paragraph nonsense
+This week I realized how little I actually know about computers including my *own* computer. It also made me realize how little time I explore learning how to use different applications and how uncomfertable the feeling initally is. Now that we are familiarizing more with using powershell and understanding the markdown language I am *slowly* feeling less tense and hope to eventually master this.
 
-## heading level 2
+## The Struggle
 
-- something
-- something else
-- one more
+1. The pace of this class is pretty fast for me especially since I'm still trying to understand how to use Github.
+2. I hope to figure out how to use all of these applications together.
+3. I'm afraid to try and upload this page onto Github by myself, really hoping I can figure that out.
 
-### heading just for the heck of it
+### What I have Learned
+- pwd stands for current working directory
+- ls stands for list
+- cd changes my current directory
+- I learned powershell is a thing on my computer that allows me to use markdown language to open documents manually
+- learned how to make a link: [facebook](https://www.facebook.com/)
+
+
+#### Here's My Beautiful ScreenShot
 ![desktopscreenshot](./image-screen-shot.png)
