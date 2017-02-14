@@ -3,7 +3,7 @@ My Experience with Beginning Coding
 
 This week I realized how little I actually know about computers including my *own* computer. It also made me realize how little time I explore learning how to use different applications and how uncomfertable the feeling initally is. Now that we are familiarizing more with using powershell and understanding the markdown language I am *slowly* feeling less tense and hope to eventually master this.
 
-## The Struggle
+## whats up
 
 1. The pace of this class is pretty fast for me especially since I'm still trying to understand how to use Github.
 2. I hope to figure out how to use all of these applications together.
