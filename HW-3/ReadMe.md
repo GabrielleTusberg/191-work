@@ -22,3 +22,6 @@ My breakthrough happened when I just kept scrolling through P5.js references and
 I started having fun with it once I really started practicing patience with myself and allowed myself to make mistakes.
 I also discovered what it's like to make a small coding error. I though about how frustrating that would be if I had more code on my page.
 Luckily my mistake was easily found, I had just missed an 'l' on fill.
+
+###### ScreenShot
+![desktopscreenshot](screen-shot-7.jpg)
