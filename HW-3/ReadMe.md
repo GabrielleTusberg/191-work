@@ -24,4 +24,7 @@ I also discovered what it's like to make a small coding error. I though about ho
 Luckily my mistake was easily found, I had just missed an 'l' on fill.
 
 ###### ScreenShot
-![desktopscreenshot](screen-shot-7.jpg)
+![Image of my editor](screen-shot-7.jpg).
+
+####### The Link to my Final Draft
+[index](file:///C:/Users/Charles/Documents/191-work/HW-3/index.html)
