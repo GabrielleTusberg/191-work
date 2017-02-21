@@ -3,10 +3,10 @@ Animation
 -----
 
 ## What I learned
-- I learned how setup and draw are different, setup runs only once while draw runs several times
-- How to move an image with code
-- How to set variables
-- How to map the background color
+-I learned how setup and draw are different, setup runs only once while draw runs several times
+-How to move an image with code
+-How to set variables
+-How to map the background color
 
 ### What helped
 Watching those videos really helped me. Its nice to have a reference to talk you through it when a professor or outside help isn't available.
