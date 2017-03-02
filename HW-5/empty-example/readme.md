@@ -18,7 +18,7 @@ Office hours was the only way I could have gotten through this one. I just neede
 While struggeling with the concepts of how it works its still pretty fascinaitng that it does. I am excited to get more creative and really use these tools to create art.
 
 ##### Picture of the beginning image
-![Image of my editor](C:\Users\Charles\Pictures\Screenshot(28).png).
+![Image of my editor](C:\Users\Charles\Pictures\Screenshot28).
 
 ###### Picture after letting it run for awhile
-![Image of my editor](C:\Users\Charles\Pictures\Screenshot(27).png).
+![Image of my editor](C:\Users\Charles\Pictures\Screenshot27).
