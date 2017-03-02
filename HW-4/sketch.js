@@ -65,14 +65,14 @@ circleX =circleX + 1;
 //Y ball orange
 translate(350, 200);
 fill(245, 172, 62);
-ellipse(circleY, 0, 50, 50);
+ellipse(0,circleY, 50, 50);
 circleY =circleY + 2;
 
 // Y ball yellow
 
 translate(350, 200);
 fill(232, 242, 41);
-ellipse(circleY, 0, 100, 100);
+ellipse(0, circleY, 100, 100);
 circleY =circleY + 1;
 
 
