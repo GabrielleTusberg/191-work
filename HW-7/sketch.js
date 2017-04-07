@@ -33,7 +33,7 @@ function setup() {
 function draw() {
   if (state) {
     background(255,0,0,10);
-  
+
 
     rect (random(0, width), random(0, height), 10, 10);
 
@@ -47,12 +47,7 @@ function draw() {
   rectMode(CENTER);
   rect(button.x,button.y,button.width,button.height);
 
-
-
-
-
 }
-
 
 function mousePressed() {
   button.pressed();

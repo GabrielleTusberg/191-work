@@ -6,7 +6,7 @@ var y = 400;
 var d = 100;
 var state = false;
 
-//calling setup function
+
 function setup() {
   createCanvas(500,500);
 
