@@ -21,6 +21,8 @@ function draw(){
   for(var i = 0; i< objArr.length; i++){
     objArr[i].display();
     objArr[i].rotate_obj();
+    objArr[i].collisionCheck(objArr, i);
 
   }
+
 }
