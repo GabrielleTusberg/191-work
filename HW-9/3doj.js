@@ -1,3 +1,4 @@
+//creating spheres and naming it, giving it random coordinates, specific size
 function Spikes3d (init_x, init_y, size, color, maxSpeed){
     this.pos = { x: init_x, y: init_y };
     this.vel = { x: 0, y: 0 };
@@ -9,6 +10,7 @@ function Spikes3d (init_x, init_y, size, color, maxSpeed){
     this.maxAccSpeed = map(this.size, 40, 120, 1, 0.1);
 }
 
+//this shows (displays) the function created above
 Spikes3d.prototype.display = function() {
     push();
     translate(this.pos.x, this.pos.y, this.pos.z);
@@ -22,7 +24,9 @@ Spikes3d.prototype.display = function() {
 
     pop();
 };
-
+//makes the spike function move
+//creating if and else statements to make them move all around the screen
+//need -height and + height because of 3D and 0,0 in center of screen
 Spikes3d.prototype.move = function(){
 
       // this.acc.x = mx - this.pos.x;
@@ -58,7 +62,8 @@ Spikes3d.prototype.move = function(){
       }
   }
 
-
+// creating the collisionCheck with variables and array
+//if statements using the variables to set what the collision is and what to do if it collides
 Spikes3d.prototype.collisionCheck = function(spikeArr, myIdx){
     var maxDist, distance, otherSpike;
 
