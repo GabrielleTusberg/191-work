@@ -1,4 +1,7 @@
 //var dur
+for (var i = 0; i < array.length; i++) {
+  array[i]
+}
 
 function setup() {
 //dur = addNumbers(1,2);
